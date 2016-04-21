@@ -1,0 +1,13 @@
+--------------------------ad4aa541698d8651
+Content-Disposition: form-data; name="filename"
+
+sample_file.txt
+--------------------------ad4aa541698d8651
+Content-Disposition: form-data; name="file"
+
+
+--------------------------ad4aa541698d8651
+Content-Disposition: form-data; name="content_transfer_encoding"
+
+base64
+--------------------------ad4aa541698d8651--

@@ -1,0 +1,735 @@
+
+2016-04-16 04:48:34...Begin System Check Process *************
+2016-04-16 04:48:34...XML Parsing Support Found
+2016-04-16 04:48:34...MBString Support Found
+2016-04-16 04:48:34...ZIP Support Found
+2016-04-16 04:48:34.../custom directory and subdirectory check passed
+2016-04-16 04:48:34...cache directory and subdirectory check passed
+2016-04-16 04:48:34.../module  directory and subdirectory check passed
+2016-04-16 04:48:34.../upload directory check passed
+2016-04-16 04:48:34.../zip check passed
+2016-04-16 04:48:34.../BCMATH check passed
+2016-04-16 04:48:34...Testing .htaccess redirects
+2016-04-16 04:48:34...Passed .htaccess redirects check
+2016-04-16 04:48:34...installerHook: Could not find custom/install/install_hooks.php
+2016-04-16 04:48:34...php.ini location found. /etc/php.ini
+2016-04-16 04:48:34...Outputting HTML for System check
+2016-04-16 04:48:34...No Errors were found *************
+2016-04-16 04:48:37...installerHook: Could not find custom/install/install_hooks.php
+2016-04-16 04:48:42...installerHook: Could not find custom/install/install_hooks.php
+2016-04-16 04:48:45...installerHook: Could not find custom/install/install_hooks.php
+2016-04-16 04:48:51...installerHook: Could not find custom/install/install_hooks.php
+2016-04-16 04:48:53...installerHook: Could not find custom/install/install_hooks.php
+2016-04-16 04:48:56...installerHook: Could not find custom/install/install_hooks.php
+2016-04-16 04:48:58...Begin System Check Process *************
+2016-04-16 04:48:58...XML Parsing Support Found
+2016-04-16 04:48:58...MBString Support Found
+2016-04-16 04:48:58...ZIP Support Found
+2016-04-16 04:48:58.../custom directory and subdirectory check passed
+2016-04-16 04:48:58...cache directory and subdirectory check passed
+2016-04-16 04:48:58.../module  directory and subdirectory check passed
+2016-04-16 04:48:58.../upload directory check passed
+2016-04-16 04:48:58.../zip check passed
+2016-04-16 04:48:58.../BCMATH check passed
+2016-04-16 04:48:58...Testing .htaccess redirects
+2016-04-16 04:48:58...Passed .htaccess redirects check
+2016-04-16 04:48:58...installerHook: Could not find custom/install/install_hooks.php
+2016-04-16 04:48:58...php.ini location found. /etc/php.ini
+2016-04-16 04:48:58...Outputting HTML for System check
+2016-04-16 04:48:58...No Errors were found *************
+2016-04-16 04:49:02...installerHook: Could not find custom/install/install_hooks.php
+2016-04-16 17:17:25...installerHook: Could not find custom/install/install_hooks.php
+2016-04-16 17:17:40...installerHook: Could not find custom/install/install_hooks.php
+2016-04-16 17:17:47...installerHook: Could not find custom/install/install_hooks.php
+2016-04-16 17:19:26...Begin System Check Process *************
+2016-04-16 17:19:26...XML Parsing Support Found
+2016-04-16 17:19:26...MBString Support Found
+2016-04-16 17:19:26...ZIP Support Found
+2016-04-16 17:19:26.../custom directory and subdirectory check passed
+2016-04-16 17:19:26...cache directory and subdirectory check passed
+2016-04-16 17:19:26.../module  directory and subdirectory check passed
+2016-04-16 17:19:26.../upload directory check passed
+2016-04-16 17:19:26.../zip check passed
+2016-04-16 17:19:26.../BCMATH check passed
+2016-04-16 17:19:26...Testing .htaccess redirects
+2016-04-16 17:19:26...Passed .htaccess redirects check
+2016-04-16 17:19:26...installerHook: Could not find custom/install/install_hooks.php
+2016-04-16 17:19:26...php.ini location found. /etc/php.ini
+2016-04-16 17:19:26...Outputting HTML for System check
+2016-04-16 17:19:26...No Errors were found *************
+2016-04-16 17:19:31...installerHook: Could not find custom/install/install_hooks.php
+2016-04-16 17:20:06...installerHook: Could not find custom/install/install_hooks.php
+2016-04-16 17:20:11...installerHook: Could not find custom/install/install_hooks.php
+2016-04-16 17:26:54...installerHook: Could not find custom/install/install_hooks.php
+2016-04-16 17:27:07...installerHook: Could not find custom/install/install_hooks.php
+2016-04-16 17:28:22...Begin DB Check Process *************
+2016-04-16 17:28:22...testing with mysql:mysqli
+2016-04-16 17:28:22...Basic form info is valid, continuing Process.
+2016-04-16 17:28:22...Testing user account...
+2016-04-16 17:28:22...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-04-16 17:28:22...Testing priviliged account...
+2016-04-16 17:28:22...Connection made using  host: localhost, usr: root
+2016-04-16 17:28:22...DB not selected, will create sugarcrm_train
+2016-04-16 17:28:22...ERROR:: Unable to check database version.
+2016-04-16 17:28:22...Begining to check FTS Settings.
+2016-04-16 17:28:22...FTS connection results: array (
+  'valid' => true,
+  'status' => 'Success',
+)
+2016-04-16 17:28:22...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-04-16 17:28:22..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-04-16 17:28:22..... Unable to check database version.
+2016-04-16 17:28:22...End DB Check Process *************
+2016-04-16 17:28:37...Begin DB Check Process *************
+2016-04-16 17:28:37...testing with mysql:mysqli
+2016-04-16 17:28:37...Basic form info is valid, continuing Process.
+2016-04-16 17:28:37...Testing user account...
+2016-04-16 17:28:37...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-04-16 17:28:37...Testing priviliged account...
+2016-04-16 17:28:37...Connection made using  host: localhost, usr: root
+2016-04-16 17:28:37...DB not selected, will create sugarcrm_train
+2016-04-16 17:28:37...ERROR:: Unable to check database version.
+2016-04-16 17:28:37...Begining to check FTS Settings.
+2016-04-16 17:28:37...FTS connection results: array (
+  'valid' => true,
+  'status' => 'Success',
+)
+2016-04-16 17:28:37...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-04-16 17:28:37..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-04-16 17:28:37..... Unable to check database version.
+2016-04-16 17:28:37...End DB Check Process *************
+2016-04-16 17:28:48...Begin DB Check Process *************
+2016-04-16 17:28:48...testing with mysql:mysqli
+2016-04-16 17:28:48...Basic form info is valid, continuing Process.
+2016-04-16 17:28:48...Testing user account...
+2016-04-16 17:28:48...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-04-16 17:28:48...Testing priviliged account...
+2016-04-16 17:28:48...Connection made using  host: localhost, usr: root
+2016-04-16 17:28:48...DB not selected, will create sugarcrm_train
+2016-04-16 17:28:48...ERROR:: Unable to check database version.
+2016-04-16 17:28:48...Begining to check FTS Settings.
+2016-04-16 17:28:48...FTS connection results: array (
+  'valid' => true,
+  'status' => 'Success',
+)
+2016-04-16 17:28:48...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-04-16 17:28:48..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-04-16 17:28:48..... Unable to check database version.
+2016-04-16 17:28:48...End DB Check Process *************
+2016-04-16 17:28:57...Begin DB Check Process *************
+2016-04-16 17:28:57...testing with mysql:mysqli
+2016-04-16 17:28:57...Basic form info is valid, continuing Process.
+2016-04-16 17:28:57...Testing user account...
+2016-04-16 17:28:57...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-04-16 17:28:57...Testing priviliged account...
+2016-04-16 17:28:57...Connection made using  host: localhost, usr: root
+2016-04-16 17:28:57...DB not selected, will create sugarcrm_train
+2016-04-16 17:28:57...ERROR:: Unable to check database version.
+2016-04-16 17:28:57...Begining to check FTS Settings.
+2016-04-16 17:28:57...FTS connection results: array (
+  'valid' => true,
+  'status' => 'Success',
+)
+2016-04-16 17:28:57...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-04-16 17:28:57..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-04-16 17:28:57..... Unable to check database version.
+2016-04-16 17:28:57...End DB Check Process *************
+2016-04-16 17:37:41...Begin DB Check Process *************
+2016-04-16 17:37:41...testing with mysql:mysqli
+2016-04-16 17:37:41...Basic form info is valid, continuing Process.
+2016-04-16 17:37:41...Testing user account...
+2016-04-16 17:37:41...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-04-16 17:37:41...Testing priviliged account...
+2016-04-16 17:37:41...Connection made using  host: localhost, usr: root
+2016-04-16 17:37:41...DB not selected, will create sugarcrm_train
+2016-04-16 17:37:41...ERROR:: Unable to check database version.
+2016-04-16 17:37:41...Begining to check FTS Settings.
+2016-04-16 17:37:41...FTS connection results: array (
+  'valid' => true,
+  'status' => 'Success',
+)
+2016-04-16 17:37:41...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-04-16 17:37:41..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-04-16 17:37:41..... Unable to check database version.
+2016-04-16 17:37:41...End DB Check Process *************
+2016-04-17 05:18:28...installerHook: Could not find custom/install/install_hooks.php
+2016-04-17 05:18:31...installerHook: Could not find custom/install/install_hooks.php
+2016-04-17 05:18:48...installerHook: Could not find custom/install/install_hooks.php
+2016-04-17 05:18:55...Begin System Check Process *************
+2016-04-17 05:18:55...XML Parsing Support Found
+2016-04-17 05:18:55...MBString Support Found
+2016-04-17 05:18:55...ZIP Support Found
+2016-04-17 05:18:55.../custom directory and subdirectory check passed
+2016-04-17 05:18:55...cache directory and subdirectory check passed
+2016-04-17 05:18:55.../module  directory and subdirectory check passed
+2016-04-17 05:18:55.../upload directory check passed
+2016-04-17 05:18:55.../zip check passed
+2016-04-17 05:18:55.../BCMATH check passed
+2016-04-17 05:18:55...Testing .htaccess redirects
+2016-04-17 05:18:55...Passed .htaccess redirects check
+2016-04-17 05:18:55...installerHook: Could not find custom/install/install_hooks.php
+2016-04-17 05:18:55...php.ini location found. /etc/php.ini
+2016-04-17 05:18:55...Outputting HTML for System check
+2016-04-17 05:18:55...No Errors were found *************
+2016-04-17 05:18:58...installerHook: Could not find custom/install/install_hooks.php
+2016-04-17 11:09:33...installerHook: Could not find custom/install/install_hooks.php
+2016-04-17 11:09:38...installerHook: Could not find custom/install/install_hooks.php
+2016-04-17 11:09:41...installerHook: Could not find custom/install/install_hooks.php
+2016-04-17 11:09:45...Begin System Check Process *************
+2016-04-17 11:09:45...XML Parsing Support Found
+2016-04-17 11:09:45...MBString Support Found
+2016-04-17 11:09:45...ZIP Support Found
+2016-04-17 11:09:45.../custom directory and subdirectory check passed
+2016-04-17 11:09:45...cache directory and subdirectory check passed
+2016-04-17 11:09:45.../module  directory and subdirectory check passed
+2016-04-17 11:09:45.../upload directory check passed
+2016-04-17 11:09:45.../zip check passed
+2016-04-17 11:09:45.../BCMATH check passed
+2016-04-17 11:09:45...Testing .htaccess redirects
+2016-04-17 11:09:45...Passed .htaccess redirects check
+2016-04-17 11:09:45...installerHook: Could not find custom/install/install_hooks.php
+2016-04-17 11:09:45...php.ini location found. /etc/php.ini
+2016-04-17 11:09:45...Outputting HTML for System check
+2016-04-17 11:09:45...No Errors were found *************
+2016-04-17 11:09:48...installerHook: Could not find custom/install/install_hooks.php
+2016-04-17 11:10:05...installerHook: Could not find custom/install/install_hooks.php
+2016-04-17 11:10:12...installerHook: Could not find custom/install/install_hooks.php
+2016-04-17 11:10:36...Begin DB Check Process *************
+2016-04-17 11:10:36...testing with mysql:mysqli
+2016-04-17 11:10:36...Basic form info is valid, continuing Process.
+2016-04-17 11:10:36...Testing user account...
+2016-04-17 11:10:36...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-04-17 11:10:36...Testing priviliged account...
+2016-04-17 11:10:36...Connection made using  host: localhost, usr: root
+2016-04-17 11:10:36...DB not selected, will create sugarcrm_train
+2016-04-17 11:10:36...ERROR:: Unable to check database version.
+2016-04-17 11:10:36...Begining to check FTS Settings.
+2016-04-17 11:10:36...FTS connection results: array (
+  'valid' => true,
+  'status' => 'Success',
+)
+2016-04-17 11:10:36...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-04-17 11:10:36..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-04-17 11:10:36..... Unable to check database version.
+2016-04-17 11:10:36...End DB Check Process *************
+2016-04-17 11:10:49...Begin DB Check Process *************
+2016-04-17 11:10:49...testing with mysql:mysqli
+2016-04-17 11:10:49...Basic form info is valid, continuing Process.
+2016-04-17 11:10:49...Testing user account...
+2016-04-17 11:10:49...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-04-17 11:10:49...Testing priviliged account...
+2016-04-17 11:10:49...Connection made using  host: 127.0.0.1, usr: root
+2016-04-17 11:10:49...DB not selected, will create sugarcrm_train
+2016-04-17 11:10:49...ERROR:: Unable to check database version.
+2016-04-17 11:10:49...Begining to check FTS Settings.
+2016-04-17 11:10:49...FTS connection results: array (
+  'valid' => true,
+  'status' => 'Success',
+)
+2016-04-17 11:10:49...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-04-17 11:10:49..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-04-17 11:10:49..... Unable to check database version.
+2016-04-17 11:10:49...End DB Check Process *************
+2016-04-17 11:11:17...Begin DB Check Process *************
+2016-04-17 11:11:17...testing with mysql:mysqli
+2016-04-17 11:11:17...Basic form info is valid, continuing Process.
+2016-04-17 11:11:17...Testing user account...
+2016-04-17 11:11:17...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-04-17 11:11:17...Testing priviliged account...
+2016-04-17 11:11:17...Connection made using  host: localhost, usr: root
+2016-04-17 11:11:17...DB not selected, will create sugarcrm_train
+2016-04-17 11:11:17...ERROR:: Unable to check database version.
+2016-04-17 11:11:17...Begining to check FTS Settings.
+2016-04-17 11:11:17...FTS connection results: array (
+  'valid' => true,
+  'status' => 'Success',
+)
+2016-04-17 11:11:17...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2016-04-17 11:11:17..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2016-04-17 11:11:17..... Unable to check database version.
+2016-04-17 11:11:17...End DB Check Process *************
+2016-04-17 11:13:16...Begin DB Check Process *************
+2016-04-17 11:13:16...testing with mysql:mysqli
+2016-04-17 11:13:16...Basic form info is valid, continuing Process.
+2016-04-17 11:13:16...Testing user account...
+2016-04-17 11:13:16...Connection made using  host: localhost, usr: root
+2016-04-17 11:13:16...Testing priviliged account...
+2016-04-17 11:13:16...Connection made using  host: localhost, usr: root
+2016-04-17 11:13:16...DB not selected, will create sugarcrm_train
+2016-04-17 11:13:16...Passed DB install check
+2016-04-17 11:13:16...Begining to check FTS Settings.
+2016-04-17 11:13:16...FTS connection results: array (
+  'valid' => true,
+  'status' => 'Success',
+)
+2016-04-17 11:13:16...SUCCESS:: no errors detected!
+2016-04-17 11:13:16...End DB Check Process *************
+2016-04-17 11:13:16...installerHook: Could not find custom/install/install_hooks.php
+2016-04-17 11:13:23...installerHook: Could not find custom/install/install_hooks.php
+2016-04-17 11:13:36...installerHook: Could not find custom/install/install_hooks.php
+2016-04-17 11:22:09...installerHook: Could not find custom/install/install_hooks.php
+2016-04-17 11:25:38...installerHook: Could not find custom/install/install_hooks.php
+2016-04-17 11:25:38...calling handleSugarConfig()
+2016-04-17 11:25:38...calling handleLog4Php()
+2016-04-17 11:25:38...calling handleHtaccess()
+2016-04-17 11:25:38...calling handleDbCreateDatabase()
+2016-04-17 11:25:39...Enabling fulltext indexing
+2016-04-17 11:25:39...looping through all the Beans and create their tables
+2016-04-17 11:25:39...processing table acl_actions
+2016-04-17 11:25:39...creating table acl_actions
+2016-04-17 11:25:39...creating Relationship Meta for ACLAction
+2016-04-17 11:25:39...processing table acl_roles
+2016-04-17 11:25:39...creating table acl_roles
+2016-04-17 11:25:39...creating Relationship Meta for ACLRole
+2016-04-17 11:25:39...processing table relationships
+2016-04-17 11:25:39...creating table relationships
+2016-04-17 11:25:39...creating Relationship Meta for Relationship
+2016-04-17 11:25:39...processing table acl_role_sets
+2016-04-17 11:25:39...creating table acl_role_sets
+2016-04-17 11:25:39...creating Relationship Meta for ACLRoleSet
+2016-04-17 11:25:39...processing table leads
+2016-04-17 11:25:39...creating table leads
+2016-04-17 11:25:39...creating Relationship Meta for Lead
+2016-04-17 11:25:39...processing table cases
+2016-04-17 11:25:39...creating table cases
+2016-04-17 11:25:39...creating Relationship Meta for Case
+2016-04-17 11:25:39...processing table bugs
+2016-04-17 11:25:39...creating table bugs
+2016-04-17 11:25:39...creating Relationship Meta for Bug
+2016-04-17 11:25:39...processing table users
+2016-04-17 11:25:39...creating table users
+2016-04-17 11:25:39...creating Relationship Meta for User
+2016-04-17 11:25:39...processing table campaign_log
+2016-04-17 11:25:39...creating table campaign_log
+2016-04-17 11:25:39...creating Relationship Meta for CampaignLog
+2016-04-17 11:25:39...processing table project
+2016-04-17 11:25:39...creating table project
+2016-04-17 11:25:39...creating Relationship Meta for Project
+2016-04-17 11:25:39...processing table project_task
+2016-04-17 11:25:39...creating table project_task
+2016-04-17 11:25:39...creating Relationship Meta for ProjectTask
+2016-04-17 11:25:39...processing table campaigns
+2016-04-17 11:25:39...creating table campaigns
+2016-04-17 11:25:39...creating Relationship Meta for Campaign
+2016-04-17 11:25:39...processing table prospect_lists
+2016-04-17 11:25:39...creating table prospect_lists
+2016-04-17 11:25:39...creating Relationship Meta for ProspectList
+2016-04-17 11:25:39...processing table prospects
+2016-04-17 11:25:39...creating table prospects
+2016-04-17 11:25:39...creating Relationship Meta for Prospect
+2016-04-17 11:25:39...processing table email_marketing
+2016-04-17 11:25:39...creating table email_marketing
+2016-04-17 11:25:39...creating Relationship Meta for EmailMarketing
+2016-04-17 11:25:39...processing table campaign_trkrs
+2016-04-17 11:25:39...creating table campaign_trkrs
+2016-04-17 11:25:39...creating Relationship Meta for CampaignTracker
+2016-04-17 11:25:39...processing table releases
+2016-04-17 11:25:39...creating table releases
+2016-04-17 11:25:39...creating Relationship Meta for Release
+2016-04-17 11:25:39...processing table emailman
+2016-04-17 11:25:39...creating table emailman
+2016-04-17 11:25:39...creating Relationship Meta for EmailMan
+2016-04-17 11:25:39...processing table schedulers
+2016-04-17 11:25:39...creating table schedulers
+2016-04-17 11:25:39...creating Relationship Meta for Scheduler
+2016-04-17 11:25:39...processing table job_queue
+2016-04-17 11:25:39...creating table job_queue
+2016-04-17 11:25:39...creating Relationship Meta for SchedulersJob
+2016-04-17 11:25:39...processing table contacts
+2016-04-17 11:25:39...creating table contacts
+2016-04-17 11:25:39...creating Relationship Meta for Contact
+2016-04-17 11:25:39...processing table accounts
+2016-04-17 11:25:39...creating table accounts
+2016-04-17 11:25:39...creating Relationship Meta for Account
+2016-04-17 11:25:39...processing table opportunities
+2016-04-17 11:25:39...creating table opportunities
+2016-04-17 11:25:39...creating Relationship Meta for Opportunity
+2016-04-17 11:25:39...processing table email_templates
+2016-04-17 11:25:39...creating table email_templates
+2016-04-17 11:25:39...creating Relationship Meta for EmailTemplate
+2016-04-17 11:25:39...processing table users_signatures
+2016-04-17 11:25:40...creating table users_signatures
+2016-04-17 11:25:40...creating Relationship Meta for UserSignature
+2016-04-17 11:25:40...processing table notes
+2016-04-17 11:25:40...creating table notes
+2016-04-17 11:25:40...creating Relationship Meta for Note
+2016-04-17 11:25:40...processing table calls
+2016-04-17 11:25:40...creating table calls
+2016-04-17 11:25:40...creating Relationship Meta for Call
+2016-04-17 11:25:40...processing table emails
+2016-04-17 11:25:40...creating table emails
+2016-04-17 11:25:40...creating Relationship Meta for Email
+2016-04-17 11:25:40...processing table meetings
+2016-04-17 11:25:40...creating table meetings
+2016-04-17 11:25:40...creating Relationship Meta for Meeting
+2016-04-17 11:25:40...processing table tasks
+2016-04-17 11:25:40...creating table tasks
+2016-04-17 11:25:40...creating Relationship Meta for Task
+2016-04-17 11:25:40...processing table users
+2016-04-17 11:25:40...processing table users
+2016-04-17 11:25:40...processing table currencies
+2016-04-17 11:25:40...creating table currencies
+2016-04-17 11:25:40...creating Relationship Meta for Currency
+2016-04-17 11:25:40...processing table tracker
+2016-04-17 11:25:40...creating table tracker
+2016-04-17 11:25:40...creating Relationship Meta for Tracker
+2016-04-17 11:25:40...processing table tracker_perf
+2016-04-17 11:25:40...creating table tracker_perf
+2016-04-17 11:25:40...creating Relationship Meta for tracker_perf
+2016-04-17 11:25:40...processing table tracker_sessions
+2016-04-17 11:25:40...creating table tracker_sessions
+2016-04-17 11:25:40...creating Relationship Meta for tracker_sessions
+2016-04-17 11:25:40...processing table tracker_queries
+2016-04-17 11:25:40...creating table tracker_queries
+2016-04-17 11:25:40...creating Relationship Meta for tracker_queries
+2016-04-17 11:25:40...processing table import_maps
+2016-04-17 11:25:40...creating table import_maps
+2016-04-17 11:25:40...creating Relationship Meta for ImportMap
+2016-04-17 11:25:40...processing table users_last_import
+2016-04-17 11:25:40...creating table users_last_import
+2016-04-17 11:25:40...creating Relationship Meta for UsersLastImport
+2016-04-17 11:25:40...processing table config
+2016-04-17 11:25:40...creating table config
+2016-04-17 11:25:40...creating Relationship Meta for Administration
+2016-04-17 11:25:40...processing table upgrade_history
+2016-04-17 11:25:40...creating table upgrade_history
+2016-04-17 11:25:40...creating Relationship Meta for UpgradeHistory
+2016-04-17 11:25:40...processing table vcals
+2016-04-17 11:25:40...creating table vcals
+2016-04-17 11:25:40...creating Relationship Meta for vCal
+2016-04-17 11:25:40...processing table versions
+2016-04-17 11:25:40...creating table versions
+2016-04-17 11:25:40...creating Relationship Meta for Version
+2016-04-17 11:25:40...processing table roles
+2016-04-17 11:25:40...creating table roles
+2016-04-17 11:25:40...creating Relationship Meta for Role
+2016-04-17 11:25:40...processing table documents
+2016-04-17 11:25:40...creating table documents
+2016-04-17 11:25:40...creating Relationship Meta for Document
+2016-04-17 11:25:40...processing table document_revisions
+2016-04-17 11:25:40...creating table document_revisions
+2016-04-17 11:25:40...creating Relationship Meta for DocumentRevision
+2016-04-17 11:25:40...processing table fields_meta_data
+2016-04-17 11:25:40...creating table fields_meta_data
+2016-04-17 11:25:40...creating Relationship Meta for FieldsMetaData
+2016-04-17 11:25:40...processing table inbound_email
+2016-04-17 11:25:40...creating table inbound_email
+2016-04-17 11:25:40...creating Relationship Meta for InboundEmail
+2016-04-17 11:25:40...processing table saved_search
+2016-04-17 11:25:40...creating table saved_search
+2016-04-17 11:25:40...creating Relationship Meta for SavedSearch
+2016-04-17 11:25:40...processing table user_preferences
+2016-04-17 11:25:40...creating table user_preferences
+2016-04-17 11:25:40...creating Relationship Meta for UserPreference
+2016-04-17 11:25:40...processing table 
+2016-04-17 11:25:40...processing table email_addresses
+2016-04-17 11:25:40...creating table email_addresses
+2016-04-17 11:25:40...creating Relationship Meta for EmailAddress
+2016-04-17 11:25:40...processing table emails_text
+2016-04-17 11:25:40...creating table emails_text
+2016-04-17 11:25:40...creating Relationship Meta for EmailText
+2016-04-17 11:25:40...processing table saved_reports
+2016-04-17 11:25:40...creating table saved_reports
+2016-04-17 11:25:40...creating Relationship Meta for SavedReport
+2016-04-17 11:25:40...processing table acl_fields
+2016-04-17 11:25:40...creating table acl_fields
+2016-04-17 11:25:40...creating Relationship Meta for ACLField
+2016-04-17 11:25:40...processing table contracts
+2016-04-17 11:25:40...creating table contracts
+2016-04-17 11:25:40...creating Relationship Meta for Contract
+2016-04-17 11:25:40...processing table teams
+2016-04-17 11:25:40...creating table teams
+2016-04-17 11:25:40...creating Relationship Meta for Team
+2016-04-17 11:25:40...processing table team_memberships
+2016-04-17 11:25:40...creating table team_memberships
+2016-04-17 11:25:40...creating Relationship Meta for TeamMembership
+2016-04-17 11:25:40...processing table team_sets
+2016-04-17 11:25:40...creating table team_sets
+2016-04-17 11:25:40...creating Relationship Meta for TeamSet
+2016-04-17 11:25:40...processing table team_sets_modules
+2016-04-17 11:25:40...creating table team_sets_modules
+2016-04-17 11:25:40...creating Relationship Meta for TeamSetModule
+2016-04-17 11:25:40...processing table team_notices
+2016-04-17 11:25:40...creating table team_notices
+2016-04-17 11:25:40...creating Relationship Meta for TeamNotices
+2016-04-17 11:25:40...processing table product_templates
+2016-04-17 11:25:40...creating table product_templates
+2016-04-17 11:25:40...creating Relationship Meta for ProductTemplate
+2016-04-17 11:25:40...processing table product_types
+2016-04-17 11:25:40...creating table product_types
+2016-04-17 11:25:40...creating Relationship Meta for ProductType
+2016-04-17 11:25:40...processing table product_categories
+2016-04-17 11:25:40...creating table product_categories
+2016-04-17 11:25:40...creating Relationship Meta for ProductCategory
+2016-04-17 11:25:40...processing table manufacturers
+2016-04-17 11:25:40...creating table manufacturers
+2016-04-17 11:25:40...creating Relationship Meta for Manufacturer
+2016-04-17 11:25:40...processing table quotes
+2016-04-17 11:25:40...creating table quotes
+2016-04-17 11:25:40...creating Relationship Meta for Quote
+2016-04-17 11:25:40...processing table product_bundle_notes
+2016-04-17 11:25:40...creating table product_bundle_notes
+2016-04-17 11:25:40...creating Relationship Meta for ProductBundleNote
+2016-04-17 11:25:40...processing table products
+2016-04-17 11:25:40...creating table products
+2016-04-17 11:25:40...creating Relationship Meta for Product
+2016-04-17 11:25:40...processing table product_bundles
+2016-04-17 11:25:40...creating table product_bundles
+2016-04-17 11:25:40...creating Relationship Meta for ProductBundle
+2016-04-17 11:25:40...processing table revenue_line_items
+2016-04-17 11:25:40...creating table revenue_line_items
+2016-04-17 11:25:40...creating Relationship Meta for RevenueLineItem
+2016-04-17 11:25:40...processing table shippers
+2016-04-17 11:25:40...creating table shippers
+2016-04-17 11:25:40...creating Relationship Meta for Shipper
+2016-04-17 11:25:40...processing table taxrates
+2016-04-17 11:25:40...creating table taxrates
+2016-04-17 11:25:40...creating Relationship Meta for TaxRate
+2016-04-17 11:25:40...processing table timeperiods
+2016-04-17 11:25:40...creating table timeperiods
+2016-04-17 11:25:40...creating Relationship Meta for TimePeriod
+2016-04-17 11:25:40...processing table timeperiods
+2016-04-17 11:25:40...processing table timeperiods
+2016-04-17 11:25:40...processing table timeperiods
+2016-04-17 11:25:40...processing table timeperiods
+2016-04-17 11:25:40...processing table timeperiods
+2016-04-17 11:25:40...processing table timeperiods
+2016-04-17 11:25:41...processing table forecasts
+2016-04-17 11:25:41...creating table forecasts
+2016-04-17 11:25:41...creating Relationship Meta for Forecast
+2016-04-17 11:25:41...processing table forecast_worksheets
+2016-04-17 11:25:41...creating table forecast_worksheets
+2016-04-17 11:25:41...creating Relationship Meta for ForecastWorksheet
+2016-04-17 11:25:41...processing table forecast_manager_worksheets
+2016-04-17 11:25:41...creating table forecast_manager_worksheets
+2016-04-17 11:25:41...creating Relationship Meta for ForecastManagerWorksheet
+2016-04-17 11:25:41...processing table opportunities
+2016-04-17 11:25:41...processing table users
+2016-04-17 11:25:41...processing table quotas
+2016-04-17 11:25:41...creating table quotas
+2016-04-17 11:25:41...creating Relationship Meta for Quota
+2016-04-17 11:25:41...processing table workflow
+2016-04-17 11:25:41...creating table workflow
+2016-04-17 11:25:41...creating Relationship Meta for WorkFlow
+2016-04-17 11:25:41...processing table workflow_triggershells
+2016-04-17 11:25:41...creating table workflow_triggershells
+2016-04-17 11:25:41...creating Relationship Meta for WorkFlowTriggerShell
+2016-04-17 11:25:41...processing table workflow_alertshells
+2016-04-17 11:25:41...creating table workflow_alertshells
+2016-04-17 11:25:41...creating Relationship Meta for WorkFlowAlertShell
+2016-04-17 11:25:41...processing table workflow_alerts
+2016-04-17 11:25:41...creating table workflow_alerts
+2016-04-17 11:25:41...creating Relationship Meta for WorkFlowAlert
+2016-04-17 11:25:41...processing table workflow_actionshells
+2016-04-17 11:25:41...creating table workflow_actionshells
+2016-04-17 11:25:41...creating Relationship Meta for WorkFlowActionShell
+2016-04-17 11:25:41...processing table workflow_actions
+2016-04-17 11:25:41...creating table workflow_actions
+2016-04-17 11:25:41...creating Relationship Meta for WorkFlowAction
+2016-04-17 11:25:41...processing table expressions
+2016-04-17 11:25:41...creating table expressions
+2016-04-17 11:25:41...creating Relationship Meta for Expression
+2016-04-17 11:25:41...processing table systems
+2016-04-17 11:25:41...creating table systems
+2016-04-17 11:25:41...creating Relationship Meta for System
+2016-04-17 11:25:41...processing table session_active
+2016-04-17 11:25:41...creating table session_active
+2016-04-17 11:25:41...creating Relationship Meta for SessionManager
+2016-04-17 11:25:41...processing table kbdocuments
+2016-04-17 11:25:41...creating table kbdocuments
+2016-04-17 11:25:41...creating Relationship Meta for KBDocument
+2016-04-17 11:25:41...processing table kbdocument_revisions
+2016-04-17 11:25:41...creating table kbdocument_revisions
+2016-04-17 11:25:41...creating Relationship Meta for KBDocumentRevision
+2016-04-17 11:25:41...processing table kbtags
+2016-04-17 11:25:41...creating table kbtags
+2016-04-17 11:25:41...creating Relationship Meta for KBTag
+2016-04-17 11:25:41...processing table kbdocuments_kbtags
+2016-04-17 11:25:41...creating table kbdocuments_kbtags
+2016-04-17 11:25:41...creating Relationship Meta for KBDocumentKBTag
+2016-04-17 11:25:41...processing table kbcontents
+2016-04-17 11:25:41...creating table kbcontents
+2016-04-17 11:25:41...creating Relationship Meta for KBContent
+2016-04-17 11:25:41...processing table contract_types
+2016-04-17 11:25:41...creating table contract_types
+2016-04-17 11:25:41...creating Relationship Meta for ContractType
+2016-04-17 11:25:41...processing table project_resources
+2016-04-17 11:25:41...creating table project_resources
+2016-04-17 11:25:41...creating Relationship Meta for ProjectResource
+2016-04-17 11:25:41...processing table holidays
+2016-04-17 11:25:41...creating table holidays
+2016-04-17 11:25:41...creating Relationship Meta for Holiday
+2016-04-17 11:25:41...processing table custom_queries
+2016-04-17 11:25:41...creating table custom_queries
+2016-04-17 11:25:41...creating Relationship Meta for CustomQuery
+2016-04-17 11:25:41...processing table data_sets
+2016-04-17 11:25:41...creating table data_sets
+2016-04-17 11:25:41...creating Relationship Meta for DataSet
+2016-04-17 11:25:41...processing table dataset_attributes
+2016-04-17 11:25:41...creating table dataset_attributes
+2016-04-17 11:25:41...creating Relationship Meta for DataSet_Attribute
+2016-04-17 11:25:41...processing table report_maker
+2016-04-17 11:25:41...creating table report_maker
+2016-04-17 11:25:41...creating Relationship Meta for ReportMaker
+2016-04-17 11:25:41...processing table pmse_project
+2016-04-17 11:25:41...creating table pmse_project
+2016-04-17 11:25:41...creating Relationship Meta for pmse_Project
+2016-04-17 11:25:41...processing table pmse_inbox
+2016-04-17 11:25:41...creating table pmse_inbox
+2016-04-17 11:25:41...creating Relationship Meta for pmse_Inbox
+2016-04-17 11:25:41...processing table pmse_business_rules
+2016-04-17 11:25:41...creating table pmse_business_rules
+2016-04-17 11:25:41...creating Relationship Meta for pmse_Business_Rules
+2016-04-17 11:25:41...processing table pmse_emails_templates
+2016-04-17 11:25:41...creating table pmse_emails_templates
+2016-04-17 11:25:41...creating Relationship Meta for pmse_Emails_Templates
+2016-04-17 11:25:41...processing table pmse_bpmn_activity
+2016-04-17 11:25:41...creating table pmse_bpmn_activity
+2016-04-17 11:25:41...creating Relationship Meta for pmse_BpmnActivity
+2016-04-17 11:25:41...processing table pmse_bpmn_artifact
+2016-04-17 11:25:41...creating table pmse_bpmn_artifact
+2016-04-17 11:25:41...creating Relationship Meta for pmse_BpmnArtifact
+2016-04-17 11:25:41...processing table pmse_bpmn_bound
+2016-04-17 11:25:41...creating table pmse_bpmn_bound
+2016-04-17 11:25:41...creating Relationship Meta for pmse_BpmnBound
+2016-04-17 11:25:41...processing table pmse_bpmn_data
+2016-04-17 11:25:41...creating table pmse_bpmn_data
+2016-04-17 11:25:41...creating Relationship Meta for pmse_BpmnData
+2016-04-17 11:25:41...processing table pmse_bpmn_diagram
+2016-04-17 11:25:41...creating table pmse_bpmn_diagram
+2016-04-17 11:25:41...creating Relationship Meta for pmse_BpmnDiagram
+2016-04-17 11:25:41...processing table pmse_bpmn_documentation
+2016-04-17 11:25:41...creating table pmse_bpmn_documentation
+2016-04-17 11:25:41...creating Relationship Meta for pmse_BpmnDocumentation
+2016-04-17 11:25:41...processing table pmse_bpmn_event
+2016-04-17 11:25:41...creating table pmse_bpmn_event
+2016-04-17 11:25:41...creating Relationship Meta for pmse_BpmnEvent
+2016-04-17 11:25:41...processing table pmse_bpmn_extension
+2016-04-17 11:25:41...creating table pmse_bpmn_extension
+2016-04-17 11:25:41...creating Relationship Meta for pmse_BpmnExtension
+2016-04-17 11:25:41...processing table pmse_bpmn_flow
+2016-04-17 11:25:41...creating table pmse_bpmn_flow
+2016-04-17 11:25:41...creating Relationship Meta for pmse_BpmnFlow
+2016-04-17 11:25:41...processing table pmse_bpmn_gateway
+2016-04-17 11:25:41...creating table pmse_bpmn_gateway
+2016-04-17 11:25:41...creating Relationship Meta for pmse_BpmnGateway
+2016-04-17 11:25:41...processing table pmse_bpmn_lane
+2016-04-17 11:25:41...creating table pmse_bpmn_lane
+2016-04-17 11:25:41...creating Relationship Meta for pmse_BpmnLane
+2016-04-17 11:25:41...processing table pmse_bpmn_laneset
+2016-04-17 11:25:41...creating table pmse_bpmn_laneset
+2016-04-17 11:25:41...creating Relationship Meta for pmse_BpmnLaneset
+2016-04-17 11:25:41...processing table pmse_bpmn_participant
+2016-04-17 11:25:41...creating table pmse_bpmn_participant
+2016-04-17 11:25:41...creating Relationship Meta for pmse_BpmnParticipant
+2016-04-17 11:25:41...processing table pmse_bpmn_process
+2016-04-17 11:25:41...creating table pmse_bpmn_process
+2016-04-17 11:25:41...creating Relationship Meta for pmse_BpmnProcess
+2016-04-17 11:25:41...processing table pmse_bpm_flow
+2016-04-17 11:25:41...creating table pmse_bpm_flow
+2016-04-17 11:25:41...creating Relationship Meta for pmse_BpmFlow
+2016-04-17 11:25:41...processing table pmse_bpm_thread
+2016-04-17 11:25:41...creating table pmse_bpm_thread
+2016-04-17 11:25:41...creating Relationship Meta for pmse_BpmThread
+2016-04-17 11:25:41...processing table pmse_bpm_notes
+2016-04-17 11:25:41...creating table pmse_bpm_notes
+2016-04-17 11:25:41...creating Relationship Meta for pmse_BpmNotes
+2016-04-17 11:25:41...processing table pmse_bpm_related_dependency
+2016-04-17 11:25:41...creating table pmse_bpm_related_dependency
+2016-04-17 11:25:41...creating Relationship Meta for pmse_BpmRelatedDependency
+2016-04-17 11:25:41...processing table pmse_bpm_case_data
+2016-04-17 11:25:41...creating table pmse_bpm_case_data
+2016-04-17 11:25:41...creating Relationship Meta for pmse_BpmCaseData
+2016-04-17 11:25:41...processing table pmse_bpm_activity_user
+2016-04-17 11:25:41...creating table pmse_bpm_activity_user
+2016-04-17 11:25:41...creating Relationship Meta for pmse_BpmActivityUser
+2016-04-17 11:25:41...processing table pmse_bpm_event_definition
+2016-04-17 11:25:41...creating table pmse_bpm_event_definition
+2016-04-17 11:25:41...creating Relationship Meta for pmse_BpmEventDefinition
+2016-04-17 11:25:42...processing table pmse_bpm_gateway_definition
+2016-04-17 11:25:42...creating table pmse_bpm_gateway_definition
+2016-04-17 11:25:42...creating Relationship Meta for pmse_BpmGatewayDefinition
+2016-04-17 11:25:42...processing table pmse_bpm_activity_definition
+2016-04-17 11:25:42...creating table pmse_bpm_activity_definition
+2016-04-17 11:25:42...creating Relationship Meta for pmse_BpmActivityDefinition
+2016-04-17 11:25:42...processing table pmse_bpm_activity_step
+2016-04-17 11:25:42...creating table pmse_bpm_activity_step
+2016-04-17 11:25:42...creating Relationship Meta for pmse_BpmActivityStep
+2016-04-17 11:25:42...processing table pmse_bpm_form_action
+2016-04-17 11:25:42...creating table pmse_bpm_form_action
+2016-04-17 11:25:42...creating Relationship Meta for pmse_BpmFormAction
+2016-04-17 11:25:42...processing table pmse_bpm_dynamic_forms
+2016-04-17 11:25:42...creating table pmse_bpm_dynamic_forms
+2016-04-17 11:25:42...creating Relationship Meta for pmse_BpmDynaForm
+2016-04-17 11:25:42...processing table pmse_bpm_process_definition
+2016-04-17 11:25:42...creating table pmse_bpm_process_definition
+2016-04-17 11:25:42...creating Relationship Meta for pmse_BpmProcessDefinition
+2016-04-17 11:25:42...processing table pmse_bpm_config
+2016-04-17 11:25:42...creating table pmse_bpm_config
+2016-04-17 11:25:42...creating Relationship Meta for pmse_BpmConfig
+2016-04-17 11:25:42...processing table pmse_bpm_group
+2016-04-17 11:25:42...creating table pmse_bpm_group
+2016-04-17 11:25:42...creating Relationship Meta for pmse_BpmGroup
+2016-04-17 11:25:42...processing table pmse_bpm_group_user
+2016-04-17 11:25:42...creating table pmse_bpm_group_user
+2016-04-17 11:25:42...creating Relationship Meta for pmse_BpmGroupUser
+2016-04-17 11:25:42...processing table pmse_bpm_access_management
+2016-04-17 11:25:42...creating table pmse_bpm_access_management
+2016-04-17 11:25:42...creating Relationship Meta for pmse_BpmAccessManagement
+2016-04-17 11:25:42...processing table 
+2016-04-17 11:25:42...processing table styleguide
+2016-04-17 11:25:42...creating table styleguide
+2016-04-17 11:25:42...creating Relationship Meta for Styleguide
+2016-04-17 11:25:42...processing table notifications
+2016-04-17 11:25:42...creating table notifications
+2016-04-17 11:25:42...creating Relationship Meta for Notifications
+2016-04-17 11:25:42...processing table eapm
+2016-04-17 11:25:42...creating table eapm
+2016-04-17 11:25:42...creating Relationship Meta for EAPM
+2016-04-17 11:25:42...processing table oauth_consumer
+2016-04-17 11:25:42...creating table oauth_consumer
+2016-04-17 11:25:42...creating Relationship Meta for OAuthKey
+2016-04-17 11:25:42...processing table oauth_tokens
+2016-04-17 11:25:42...creating table oauth_tokens
+2016-04-17 11:25:42...creating Relationship Meta for OAuthToken
+2016-04-17 11:25:42...processing table sugarfavorites
+2016-04-17 11:25:42...creating table sugarfavorites
+2016-04-17 11:25:42...creating Relationship Meta for SugarFavorites
+2016-04-17 11:25:42...processing table weblogichooks
+2016-04-17 11:25:42...creating table weblogichooks
+2016-04-17 11:25:42...creating Relationship Meta for WebLogicHook
+2016-04-17 11:25:42...processing table activities
+2016-04-17 11:25:42...creating table activities
+2016-04-17 11:25:42...creating Relationship Meta for Activity
+2016-04-17 11:25:42...processing table comments
+2016-04-17 11:25:42...creating table comments
+2016-04-17 11:25:42...creating Relationship Meta for Comment
+2016-04-17 11:25:42...processing table subscriptions
+2016-04-17 11:25:42...creating table subscriptions
+2016-04-17 11:25:42...creating Relationship Meta for Subscription
+2016-04-17 11:25:42...processing table filters
+2016-04-17 11:25:42...creating table filters
+2016-04-17 11:25:42...creating Relationship Meta for Filters
+2016-04-17 11:25:42...processing table dashboards
+2016-04-17 11:25:42...creating table dashboards
+2016-04-17 11:25:42...creating Relationship Meta for Dashboard
+2016-04-17 11:25:42...processing table pdfmanager
+2016-04-17 11:25:42...creating table pdfmanager
+2016-04-17 11:25:42...creating Relationship Meta for PdfManager
+2016-04-17 11:25:43...Begin creating Defaults
+2016-04-17 11:25:43...insert defaults into config table
+2016-04-17 11:25:43...Updating license information
+2016-04-17 11:25:43...Creating default users
+2016-04-17 11:25:43...Creating default reports
+2016-04-17 11:25:44...Creating default scheduler jobs
+2016-04-17 11:25:44...create kb tag default data
+2016-04-17 11:25:44...creating new user for Snip
+2016-04-17 11:25:44...populating the db with seed data
+2016-04-17 11:26:33...running full indexer
+2016-04-17 11:26:43...Done populating data *********
+2016-04-17 11:26:43...Running post-install hooks
+2016-04-17 11:26:43...Finished post-install hooks
+2016-04-17 11:26:43...Populating file cache
+2016-04-17 11:26:43...Populating metadata cache
+2016-04-17 11:26:46...Installation has completed *********
+2016-04-17 11:27:28...installerHook: Could not find custom/install/install_hooks.php

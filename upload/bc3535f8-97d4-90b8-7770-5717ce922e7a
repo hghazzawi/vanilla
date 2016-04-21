@@ -1,0 +1,9 @@
+--------------------------9cd6643f1e76f7e5
+Content-Disposition: form-data; name="filename"
+
+sample_file.txt
+--------------------------9cd6643f1e76f7e5
+Content-Disposition: form-data; name="file"
+
+C:\Bitnami\wampstack-5.6.19-0\apache2\htdocs\rest\sample_file.txt
+--------------------------9cd6643f1e76f7e5--
