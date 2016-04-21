@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.11, created on 2016-04-17 11:27:34
+<?php /* Smarty version 2.6.11, created on 2016-04-21 20:16:26
          compiled from include/MVC/View/tpls/sidecar.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'sugar_getjspath', 'include/MVC/View/tpls/sidecar.tpl', 20, false),array('function', 'sugar_getscript', 'include/MVC/View/tpls/sidecar.tpl', 28, false),array('modifier', 'cat', 'include/MVC/View/tpls/sidecar.tpl', 62, false),)), $this); ?>
