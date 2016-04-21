@@ -9,7 +9,12 @@
         */
         function hookMethod($bean, $event, $arguments)
         {
-            $bean->description="this works";
+            $bean->load_relationship('contacts');
+            foreach($bean->contacts as $contact){
+              $contact->description="this works";
+              $contact->save(false);
+            }
+
         }
     }
 ?>
